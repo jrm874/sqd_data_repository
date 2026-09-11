@@ -23,6 +23,6 @@ The SQD implementation can be found in the python package [qiskit-addon-sqd](htt
 
 This [tutorial](https://github.com/Qiskit/qiskit-addon-sqd/blob/main/docs/tutorials/01_chemistry_hamiltonian.ipynb) implements the same SQD workflow as in the manuscript.
 
-Note: The bond distances for the N2 molecule are given in fractions of 1.0975135 Angstroms. So to convert the units given here to Angstroms, divide by 1.0975135.
+Note: The bond distances for the N2 molecule are given in fractions of 1.0975135 Angstroms. So to convert the units given here to Angstroms, multiply by 1.0975135.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15324153.svg)](https://doi.org/10.5281/zenodo.15324153)
